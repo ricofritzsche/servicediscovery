@@ -1,0 +1,9 @@
+/Users/ricofritzsche/Documents/repos/servicediscovery/consul/dotnetcore/ServiceDiscovery.Consul/bin/Debug/netstandard2.0/ServiceDiscovery.Consul.deps.json
+/Users/ricofritzsche/Documents/repos/servicediscovery/consul/dotnetcore/ServiceDiscovery.Consul/bin/Debug/netstandard2.0/ServiceDiscovery.Consul.dll
+/Users/ricofritzsche/Documents/repos/servicediscovery/consul/dotnetcore/ServiceDiscovery.Consul/bin/Debug/netstandard2.0/ServiceDiscovery.Consul.pdb
+/Users/ricofritzsche/Documents/repos/servicediscovery/consul/dotnetcore/ServiceDiscovery.Consul/obj/Debug/netstandard2.0/ServiceDiscovery.Consul.csprojAssemblyReference.cache
+/Users/ricofritzsche/Documents/repos/servicediscovery/consul/dotnetcore/ServiceDiscovery.Consul/obj/Debug/netstandard2.0/ServiceDiscovery.Consul.csproj.CoreCompileInputs.cache
+/Users/ricofritzsche/Documents/repos/servicediscovery/consul/dotnetcore/ServiceDiscovery.Consul/obj/Debug/netstandard2.0/ServiceDiscovery.Consul.AssemblyInfoInputs.cache
+/Users/ricofritzsche/Documents/repos/servicediscovery/consul/dotnetcore/ServiceDiscovery.Consul/obj/Debug/netstandard2.0/ServiceDiscovery.Consul.AssemblyInfo.cs
+/Users/ricofritzsche/Documents/repos/servicediscovery/consul/dotnetcore/ServiceDiscovery.Consul/obj/Debug/netstandard2.0/ServiceDiscovery.Consul.dll
+/Users/ricofritzsche/Documents/repos/servicediscovery/consul/dotnetcore/ServiceDiscovery.Consul/obj/Debug/netstandard2.0/ServiceDiscovery.Consul.pdb
